@@ -1,0 +1,18 @@
+h1 {
+	color: lightgreen;
+	font-family: 'Lobster', cursive;
+}
+
+body {
+	background: #FFFFCC;
+}
+
+p {
+	font-family: 'Lobster', cursive;
+	display: inline;
+}
+
+img {
+	width: 200px;
+	/*display: inline;*/
+}
